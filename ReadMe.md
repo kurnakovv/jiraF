@@ -9,7 +9,7 @@
 # Description
 <b>jiraF</b> - is a task manager e-commerce application based on microservices approach
 
-# Pipeline
+# Repositories
 
 | Mircroservice 	  | Repository  | Docs | Build/Test | Deploy |  SonarCloud | CodeQL | Codecov |
 |------------------  | --- | ------------ | -------------------------------------- | ---------------------------- | ----- | ----- | --- |
