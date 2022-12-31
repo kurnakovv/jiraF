@@ -18,7 +18,7 @@
 
 | Client | Repository  | Production reference | NodeJs |
 | ------ | ----- | -------------------- | ---------- |
-| jiraF-react-client SPA | [![React Client Repository](https://img.shields.io/static/v1?label=&message=React-Client-Repository&color=orange&logo=github)](https://github.com/KurnakovMaksim/jiraF-react-client) | [![GithubPages](https://img.shields.io/static/v1?label=&message=GitHub-Pages&color=green&logo=github)](https://kurnakovmaksim.github.io/jiraF-react-client/) | [![Node.js CI](https://github.com/KurnakovMaksim/jiraF-react-client/actions/workflows/node-js.yml/badge.svg)](https://github.com/KurnakovMaksim/jiraF-react-client/actions/workflows/node-js.yml) |
+| jiraF-react-client SPA | [![React Client Repository](https://img.shields.io/static/v1?label=&message=React-Client-Repository&color=orange&logo=github)](https://github.com/KurnakovMaksim/jiraF-react-client) | [![Render](https://img.shields.io/static/v1?label=&message=Render&color=grey&logo=render)](https://jiraf-react-client.onrender.com/) | [![Node.js CI](https://github.com/KurnakovMaksim/jiraF-react-client/actions/workflows/node-js.yml/badge.svg)](https://github.com/KurnakovMaksim/jiraF-react-client/actions/workflows/node-js.yml) |
 
 # Reason
 <code><a href="#ArchitectureForContainerizedDotNetApplications" ><img src="https://docs.microsoft.com/en-us/dotnet/architecture/microservices/media/cover-large.png" title=".NET Microservices: Architecture for Containerized .NET Applications" width="150" style="border-radius:8px" /></a></code><br>
