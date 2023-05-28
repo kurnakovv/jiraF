@@ -2,7 +2,7 @@
  <img src="docs/img/jiraF-icon.png" weight="100px" height="200px" />
  <h2>jiraF</h2>
 
-![Visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=KurnakovMaksim&repo=jiraF&countColor=%237B1E7A&style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKurnakovMaksim%2FjiraF&countColor=%23263759&style=flat)
 
 </div>
 
